@@ -1,1 +1,1 @@
-Split landing readme
+Split landing page
